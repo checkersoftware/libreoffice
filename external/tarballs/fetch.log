@@ -1,0 +1,809 @@
+Fri 17 Nov 2023 12:30:23 PM PST
+--2023-11-17 12:30:23--  https://dev-www.libreoffice.org/src/libabw-0.1.3.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318808 (311K) [application/octet-stream]
+Saving to: ‘./libabw-0.1.3.tar.xz’
+
+     0K ....                                                 100%  491K=0.6s
+
+2023-11-17 12:30:24 (491 KB/s) - ‘./libabw-0.1.3.tar.xz’ saved [318808/318808]
+
+--2023-11-17 12:30:24--  https://dev-www.libreoffice.org/src/boost_1_81_0.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17872096 (17M) [application/octet-stream]
+Saving to: ‘./boost_1_81_0.tar.xz’
+
+     0K ........ ........ ........ ........ ........ ........ 17%  578K 25s
+  3072K ........ ........ ........ ........ ........ ........ 35%  497K 21s
+  6144K ........ ........ ........ ........ ........ ........ 52%  481K 16s
+  9216K ........ ........ ........ ........ ........ ........ 70%  357K 11s
+ 12288K ........ ........ ........ ........ ........ ........ 88%  226K 5s
+ 15360K ........ ........ ........ ........                  100%  342K=46s
+
+2023-11-17 12:31:11 (378 KB/s) - ‘./boost_1_81_0.tar.xz’ saved [17872096/17872096]
+
+--2023-11-17 12:31:12--  https://dev-www.libreoffice.org/src/box2d-2.4.1.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1224516 (1.2M) [application/octet-stream]
+Saving to: ‘./box2d-2.4.1.tar.gz’
+
+     0K ........ ........ ..                                 100%  390K=3.1s
+
+2023-11-17 12:31:15 (390 KB/s) - ‘./box2d-2.4.1.tar.gz’ saved [1224516/1224516]
+
+--2023-11-17 12:31:15--  https://dev-www.libreoffice.org/src/cairo-1.17.6.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35055900 (33M) [application/octet-stream]
+Saving to: ‘./cairo-1.17.6.tar.xz’
+
+     0K ........ ........ ........ ........ ........ ........  8%  394K 79s
+  3072K ........ ........ ........ ........ ........ ........ 17%  391K 72s
+  6144K ........ ........ ........ ........ ........ ........ 26%  385K 64s
+  9216K ........ ........ ........ ........ ........ ........ 35%  469K 54s
+ 12288K ........ ........ ........ ........ ........ ........ 44%  515K 44s
+ 15360K ........ ........ ........ ........ ........ ........ 53%  392K 38s
+ 18432K ........ ........ ........ ........ ........ ........ 62%  724K 29s
+ 21504K ........ ........ ........ ........ ........ ........ 71% 1.01M 20s
+ 24576K ........ ........ ........ ........ ........ ........ 80%  549K 14s
+ 27648K ........ ........ ........ ........ ........ ........ 89%  515K 7s
+ 30720K ........ ........ ........ ........ ........ ........ 98%  429K 1s
+ 33792K ......                                               100%  472K=71s
+
+2023-11-17 12:32:27 (483 KB/s) - ‘./cairo-1.17.6.tar.xz’ saved [35055900/35055900]
+
+--2023-11-17 12:32:27--  https://dev-www.libreoffice.org/src/pixman-0.42.2.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 959669 (937K) [application/octet-stream]
+Saving to: ‘./pixman-0.42.2.tar.gz’
+
+     0K ........ ......                                      100%  455K=2.1s
+
+2023-11-17 12:32:30 (455 KB/s) - ‘./pixman-0.42.2.tar.gz’ saved [959669/959669]
+
+--2023-11-17 12:32:30--  https://dev-www.libreoffice.org/src/dragonbox-1.1.3.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4337233 (4.1M) [application/octet-stream]
+Saving to: ‘./dragonbox-1.1.3.tar.gz’
+
+     0K ........ ........ ........ ........ ........ ........ 72%  668K 2s
+  3072K ........ ........ ..                                 100%  887K=5.9s
+
+2023-11-17 12:32:37 (717 KB/s) - ‘./dragonbox-1.1.3.tar.gz’ saved [4337233/4337233]
+
+--2023-11-17 12:32:37--  https://dev-www.libreoffice.org/src/dtoa-20180411.tgz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48893 (48K) [application/octet-stream]
+Saving to: ‘./dtoa-20180411.tgz’
+
+     0K                                                      100%  327K=0.1s
+
+2023-11-17 12:32:38 (327 KB/s) - ‘./dtoa-20180411.tgz’ saved [48893/48893]
+
+--2023-11-17 12:32:38--  https://dev-www.libreoffice.org/src/cppunit-1.15.1.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 814363 (795K) [application/octet-stream]
+Saving to: ‘./cppunit-1.15.1.tar.gz’
+
+     0K ........ ....                                        100%  495K=1.6s
+
+2023-11-17 12:32:40 (495 KB/s) - ‘./cppunit-1.15.1.tar.gz’ saved [814363/814363]
+
+--2023-11-17 12:32:40--  https://dev-www.libreoffice.org/src/libe-book-0.1.3.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 416268 (407K) [application/octet-stream]
+Saving to: ‘./libe-book-0.1.3.tar.xz’
+
+     0K ......                                               100%  436K=0.9s
+
+2023-11-17 12:32:42 (436 KB/s) - ‘./libe-book-0.1.3.tar.xz’ saved [416268/416268]
+
+--2023-11-17 12:32:42--  https://dev-www.libreoffice.org/src/expat-2.5.0.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460560 (450K) [application/octet-stream]
+Saving to: ‘./expat-2.5.0.tar.xz’
+
+     0K .......                                              100%  375K=1.2s
+
+2023-11-17 12:32:44 (375 KB/s) - ‘./expat-2.5.0.tar.xz’ saved [460560/460560]
+
+--2023-11-17 12:32:44--  https://dev-www.libreoffice.org/src/fontconfig-2.13.94.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1416832 (1.4M) [application/octet-stream]
+Saving to: ‘./fontconfig-2.13.94.tar.xz’
+
+     0K ........ ........ .....                              100%  273K=5.1s
+
+2023-11-17 12:32:50 (273 KB/s) - ‘./fontconfig-2.13.94.tar.xz’ saved [1416832/1416832]
+
+--2023-11-17 12:32:50--  https://dev-www.libreoffice.org/src/freetype-2.13.0.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2492440 (2.4M) [application/octet-stream]
+Saving to: ‘./freetype-2.13.0.tar.xz’
+
+     0K ........ ........ ........ ........ ......           100%  462K=5.3s
+
+2023-11-17 12:32:56 (462 KB/s) - ‘./freetype-2.13.0.tar.xz’ saved [2492440/2492440]
+
+--2023-11-17 12:32:56--  https://dev-www.libreoffice.org/src/glm-0.9.9.8.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5856665 (5.6M) [application/zip]
+Saving to: ‘./glm-0.9.9.8.zip’
+
+     0K ........ ........ ........ ........ ........ ........ 53%  659K 4s
+  3072K ........ ........ ........ ........ ........ .       100%  540K=9.6s
+
+2023-11-17 12:33:06 (598 KB/s) - ‘./glm-0.9.9.8.zip’ saved [5856665/5856665]
+
+--2023-11-17 12:33:06--  https://dev-www.libreoffice.org/src/graphite2-minimal-1.3.14.tgz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149974 (146K) [application/octet-stream]
+Saving to: ‘./graphite2-minimal-1.3.14.tgz’
+
+     0K ..                                                   100%  497K=0.3s
+
+2023-11-17 12:33:07 (497 KB/s) - ‘./graphite2-minimal-1.3.14.tgz’ saved [149974/149974]
+
+--2023-11-17 12:33:07--  https://dev-www.libreoffice.org/src/harfbuzz-6.0.0.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18952524 (18M) [application/octet-stream]
+Saving to: ‘./harfbuzz-6.0.0.tar.xz’
+
+     0K ........ ........ ........ ........ ........ ........ 16%  398K 39s
+  3072K ........ ........ ........ ........ ........ ........ 33%  578K 26s
+  6144K ........ ........ ........ ........ ........ ........ 49%  553K 19s
+  9216K ........ ........ ........ ........ ........ ........ 66%  395K 13s
+ 12288K ........ ........ ........ ........ ........ ........ 82%  517K 7s
+ 15360K ........ ........ ........ ........ ........ ........ 99%  454K 0s
+ 18432K .                                                    100%  523K=39s
+
+2023-11-17 12:33:48 (472 KB/s) - ‘./harfbuzz-6.0.0.tar.xz’ saved [18952524/18952524]
+
+--2023-11-17 12:33:48--  https://dev-www.libreoffice.org/src/hunspell-1.7.2.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1536202 (1.5M) [application/octet-stream]
+Saving to: ‘./hunspell-1.7.2.tar.gz’
+
+     0K ........ ........ .......                            100%  380K=3.9s
+
+2023-11-17 12:33:52 (380 KB/s) - ‘./hunspell-1.7.2.tar.gz’ saved [1536202/1536202]
+
+--2023-11-17 12:33:52--  https://dev-www.libreoffice.org/src/5ade6ae2a99bc1e9e57031ca88d36dad-hyphen-2.8.8.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 638369 (623K) [application/octet-stream]
+Saving to: ‘./5ade6ae2a99bc1e9e57031ca88d36dad-hyphen-2.8.8.tar.gz’
+
+     0K ........ .                                           100%  327K=1.9s
+
+2023-11-17 12:33:55 (327 KB/s) - ‘./5ade6ae2a99bc1e9e57031ca88d36dad-hyphen-2.8.8.tar.gz’ saved [638369/638369]
+
+--2023-11-17 12:33:55--  https://dev-www.libreoffice.org/src/icu4c-72_1-src.tgz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26303933 (25M) [application/octet-stream]
+Saving to: ‘./icu4c-72_1-src.tgz’
+
+     0K ........ ........ ........ ........ ........ ........ 11%  333K 68s
+  3072K ........ ........ ........ ........ ........ ........ 23%  387K 55s
+  6144K ........ ........ ........ ........ ........ ........ 35%  331K 47s
+  9216K ........ ........ ........ ........ ........ ........ 47%  389K 37s
+ 12288K ........ ........ ........ ........ ........ ........ 59%  243K 32s
+ 15360K ........ ........ ........ ........ ........ ........ 71%  279K 23s
+ 18432K ........ ........ ........ ........ ........ ........ 83%  322K 13s
+ 21504K ........ ........ ........ ........ ........ ........ 95%  284K 4s
+ 24576K ........ ........ .                                  100%  389K=81s
+
+2023-11-17 12:35:17 (316 KB/s) - ‘./icu4c-72_1-src.tgz’ saved [26303933/26303933]
+
+--2023-11-17 12:35:17--  https://dev-www.libreoffice.org/src/icu4c-72_1-data.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19612531 (19M) [application/zip]
+Saving to: ‘./icu4c-72_1-data.zip’
+
+     0K ........ ........ ........ ........ ........ ........ 16%  415K 39s
+  3072K ........ ........ ........ ........ ........ ........ 32%  408K 32s
+  6144K ........ ........ ........ ........ ........ ........ 48%  248K 29s
+  9216K ........ ........ ........ ........ ........ ........ 64%  321K 21s
+ 12288K ........ ........ ........ ........ ........ ........ 80%  288K 12s
+ 15360K ........ ........ ........ ........ ........ ........ 96%  445K 2s
+ 18432K ........ ...                                         100%  446K=56s
+
+2023-11-17 12:36:15 (342 KB/s) - ‘./icu4c-72_1-data.zip’ saved [19612531/19612531]
+
+--2023-11-17 12:36:15--  https://dev-www.libreoffice.org/src/libjpeg-turbo-2.1.4.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2261822 (2.2M) [application/octet-stream]
+Saving to: ‘./libjpeg-turbo-2.1.4.tar.gz’
+
+     0K ........ ........ ........ ........ ..               100%  240K=9.2s
+
+2023-11-17 12:36:25 (240 KB/s) - ‘./libjpeg-turbo-2.1.4.tar.gz’ saved [2261822/2261822]
+
+--2023-11-17 12:36:25--  https://dev-www.libreoffice.org/src/lcms2-2.12.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7419126 (7.1M) [application/octet-stream]
+Saving to: ‘./lcms2-2.12.tar.gz’
+
+     0K ........ ........ ........ ........ ........ ........ 42%  337K 12s
+  3072K ........ ........ ........ ........ ........ ........ 84%  350K 3s
+  6144K ........ ........ .                                  100%  246K=22s
+
+2023-11-17 12:36:48 (324 KB/s) - ‘./lcms2-2.12.tar.gz’ saved [7419126/7419126]
+
+--2023-11-17 12:36:49--  https://dev-www.libreoffice.org/src/libexttextcat-3.4.6.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1111320 (1.1M) [application/octet-stream]
+Saving to: ‘./libexttextcat-3.4.6.tar.xz’
+
+     0K ........ ........                                    100%  255K=4.3s
+
+2023-11-17 12:36:54 (255 KB/s) - ‘./libexttextcat-3.4.6.tar.xz’ saved [1111320/1111320]
+
+--2023-11-17 12:36:54--  https://dev-www.libreoffice.org/src/language-subtag-registry-2022-08-08.tar.bz2
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77580 (76K) [application/octet-stream]
+Saving to: ‘./language-subtag-registry-2022-08-08.tar.bz2’
+
+     0K .                                                    100%  256K=0.3s
+
+2023-11-17 12:36:55 (256 KB/s) - ‘./language-subtag-registry-2022-08-08.tar.bz2’ saved [77580/77580]
+
+--2023-11-17 12:36:55--  https://dev-www.libreoffice.org/src/liblangtag-0.6.3.tar.bz2
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 755492 (738K) [application/octet-stream]
+Saving to: ‘./liblangtag-0.6.3.tar.bz2’
+
+     0K ........ ...                                         100%  310K=2.4s
+
+2023-11-17 12:36:58 (310 KB/s) - ‘./liblangtag-0.6.3.tar.bz2’ saved [755492/755492]
+
+--2023-11-17 12:36:58--  https://dev-www.libreoffice.org/src/libnumbertext-1.0.11.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302676 (296K) [application/octet-stream]
+Saving to: ‘./libnumbertext-1.0.11.tar.xz’
+
+     0K ....                                                 100%  289K=1.0s
+
+2023-11-17 12:37:00 (289 KB/s) - ‘./libnumbertext-1.0.11.tar.xz’ saved [302676/302676]
+
+--2023-11-17 12:37:00--  https://dev-www.libreoffice.org/src/libpng-1.6.39.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1020552 (997K) [application/octet-stream]
+Saving to: ‘./libpng-1.6.39.tar.xz’
+
+     0K ........ .......                                     100%  325K=3.1s
+
+2023-11-17 12:37:04 (325 KB/s) - ‘./libpng-1.6.39.tar.xz’ saved [1020552/1020552]
+
+--2023-11-17 12:37:04--  https://dev-www.libreoffice.org/src/tiff-4.5.0rc3.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2320900 (2.2M) [application/octet-stream]
+Saving to: ‘./tiff-4.5.0rc3.tar.xz’
+
+     0K ........ ........ ........ ........ ...              100%  229K=9.9s
+
+2023-11-17 12:37:15 (229 KB/s) - ‘./tiff-4.5.0rc3.tar.xz’ saved [2320900/2320900]
+
+--2023-11-17 12:37:15--  https://dev-www.libreoffice.org/src/libwebp-1.3.0-rc1.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4148712 (4.0M) [application/octet-stream]
+Saving to: ‘./libwebp-1.3.0-rc1.tar.gz’
+
+     0K ........ ........ ........ ........ ........ ........ 75%  285K 3s
+  3072K ........ .......                                     100%  319K=14s
+
+2023-11-17 12:37:29 (293 KB/s) - ‘./libwebp-1.3.0-rc1.tar.gz’ saved [4148712/4148712]
+
+--2023-11-17 12:37:29--  https://dev-www.libreoffice.org/src/libxml2-2.10.3.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2639908 (2.5M) [application/octet-stream]
+Saving to: ‘./libxml2-2.10.3.tar.xz’
+
+     0K ........ ........ ........ ........ ........         100%  336K=7.7s
+
+2023-11-17 12:37:38 (336 KB/s) - ‘./libxml2-2.10.3.tar.xz’ saved [2639908/2639908]
+
+--2023-11-17 12:37:38--  https://dev-www.libreoffice.org/src/xmlsec1-1.2.37.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2009175 (1.9M) [application/octet-stream]
+Saving to: ‘./xmlsec1-1.2.37.tar.gz’
+
+     0K ........ ........ ........ ......                    100%  275K=7.1s
+
+2023-11-17 12:37:46 (275 KB/s) - ‘./xmlsec1-1.2.37.tar.gz’ saved [2009175/2009175]
+
+--2023-11-17 12:37:46--  https://dev-www.libreoffice.org/src/libxslt-1.1.35.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1827548 (1.7M) [application/octet-stream]
+Saving to: ‘./libxslt-1.1.35.tar.xz’
+
+     0K ........ ........ ........ ...                       100%  223K=8.0s
+
+2023-11-17 12:37:55 (223 KB/s) - ‘./libxslt-1.1.35.tar.xz’ saved [1827548/1827548]
+
+--2023-11-17 12:37:55--  https://dev-www.libreoffice.org/src/mdds-2.1.0.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 431524 (421K) [application/octet-stream]
+Saving to: ‘./mdds-2.1.0.tar.xz’
+
+     0K ......                                               100%  190K=2.2s
+
+2023-11-17 12:37:58 (190 KB/s) - ‘./mdds-2.1.0.tar.xz’ saved [431524/431524]
+
+--2023-11-17 12:37:58--  https://dev-www.libreoffice.org/src/368f114c078f94214a308a74c7e991bc-crosextrafonts-20130214.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112756 (110K) [application/octet-stream]
+Saving to: ‘./368f114c078f94214a308a74c7e991bc-crosextrafonts-20130214.tar.gz’
+
+     0K .                                                    100%  248K=0.4s
+
+2023-11-17 12:37:59 (248 KB/s) - ‘./368f114c078f94214a308a74c7e991bc-crosextrafonts-20130214.tar.gz’ saved [112756/112756]
+
+--2023-11-17 12:37:59--  https://dev-www.libreoffice.org/src/c74b7223abe75949b4af367942d96c7a-crosextrafonts-carlito-20130920.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1169488 (1.1M) [application/octet-stream]
+Saving to: ‘./c74b7223abe75949b4af367942d96c7a-crosextrafonts-carlito-20130920.tar.gz’
+
+     0K ........ ........ .                                  100%  249K=4.6s
+
+2023-11-17 12:38:04 (249 KB/s) - ‘./c74b7223abe75949b4af367942d96c7a-crosextrafonts-carlito-20130920.tar.gz’ saved [1169488/1169488]
+
+--2023-11-17 12:38:05--  https://dev-www.libreoffice.org/src/33e1e61fab06a547851ed308b4ffef42-dejavu-fonts-ttf-2.37.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5522795 (5.3M) [application/zip]
+Saving to: ‘./33e1e61fab06a547851ed308b4ffef42-dejavu-fonts-ttf-2.37.zip’
+
+     0K ........ ........ ........ ........ ........ ........ 56%  250K 9s
+  3072K ........ ........ ........ ........ ....             100%  248K=22s
+
+2023-11-17 12:38:27 (249 KB/s) - ‘./33e1e61fab06a547851ed308b4ffef42-dejavu-fonts-ttf-2.37.zip’ saved [5522795/5522795]
+
+--2023-11-17 12:38:27--  https://dev-www.libreoffice.org/src/1725634df4bb3dcb1b2c91a6175f8789-GentiumBasic_1102.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 811606 (793K) [application/zip]
+Saving to: ‘./1725634df4bb3dcb1b2c91a6175f8789-GentiumBasic_1102.zip’
+
+     0K ........ ....                                        100%  270K=2.9s
+
+2023-11-17 12:38:31 (270 KB/s) - ‘./1725634df4bb3dcb1b2c91a6175f8789-GentiumBasic_1102.zip’ saved [811606/811606]
+
+--2023-11-17 12:38:31--  https://dev-www.libreoffice.org/src/liberation-narrow-fonts-ttf-1.07.6.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300832 (294K) [application/octet-stream]
+Saving to: ‘./liberation-narrow-fonts-ttf-1.07.6.tar.gz’
+
+     0K ....                                                 100%  287K=1.0s
+
+2023-11-17 12:38:33 (287 KB/s) - ‘./liberation-narrow-fonts-ttf-1.07.6.tar.gz’ saved [300832/300832]
+
+--2023-11-17 12:38:33--  https://dev-www.libreoffice.org/src/liberation-fonts-ttf-2.1.4.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2388283 (2.3M) [application/octet-stream]
+Saving to: ‘./liberation-fonts-ttf-2.1.4.tar.gz’
+
+     0K ........ ........ ........ ........ ....             100%  384K=6.1s
+
+2023-11-17 12:38:39 (384 KB/s) - ‘./liberation-fonts-ttf-2.1.4.tar.gz’ saved [2388283/2388283]
+
+--2023-11-17 12:38:40--  https://dev-www.libreoffice.org/src/e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6651982 (6.3M) [application/zip]
+Saving to: ‘./e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip’
+
+     0K ........ ........ ........ ........ ........ ........ 47%  352K 10s
+  3072K ........ ........ ........ ........ ........ ........ 94%  278K 1s
+  6144K .....                                                100%  807K=20s
+
+2023-11-17 12:39:01 (321 KB/s) - ‘./e7a384790b13c29113e22e596ade9687-LinLibertineG-20120116.zip’ saved [6651982/6651982]
+
+--2023-11-17 12:39:01--  https://dev-www.libreoffice.org/src/noto-fonts-20171024.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6646182 (6.3M) [application/octet-stream]
+Saving to: ‘./noto-fonts-20171024.tar.gz’
+
+     0K ........ ........ ........ ........ ........ ........ 47%  441K 8s
+  3072K ........ ........ ........ ........ ........ ........ 94%  446K 1s
+  6144K .....                                                100%  519K=15s
+
+2023-11-17 12:39:16 (447 KB/s) - ‘./noto-fonts-20171024.tar.gz’ saved [6646182/6646182]
+
+--2023-11-17 12:39:16--  https://dev-www.libreoffice.org/src/culmus-0.133.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1174687 (1.1M) [application/octet-stream]
+Saving to: ‘./culmus-0.133.tar.gz’
+
+     0K ........ ........ .                                  100%  327K=3.5s
+
+2023-11-17 12:39:20 (327 KB/s) - ‘./culmus-0.133.tar.gz’ saved [1174687/1174687]
+
+--2023-11-17 12:39:20--  https://dev-www.libreoffice.org/src/libre-hebrew-1.0.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 531276 (519K) [application/octet-stream]
+Saving to: ‘./libre-hebrew-1.0.tar.gz’
+
+     0K ........                                             100%  345K=1.5s
+
+2023-11-17 12:39:23 (345 KB/s) - ‘./libre-hebrew-1.0.tar.gz’ saved [531276/531276]
+
+--2023-11-17 12:39:23--  https://dev-www.libreoffice.org/src/alef-1.001.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93498 (91K) [application/octet-stream]
+Saving to: ‘./alef-1.001.tar.gz’
+
+     0K .                                                    100%  310K=0.3s
+
+2023-11-17 12:39:24 (310 KB/s) - ‘./alef-1.001.tar.gz’ saved [93498/93498]
+
+--2023-11-17 12:39:24--  https://dev-www.libreoffice.org/src/Amiri-1.000.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1039502 (1015K) [application/zip]
+Saving to: ‘./Amiri-1.000.zip’
+
+     0K ........ .......                                     100%  402K=2.5s
+
+2023-11-17 12:39:27 (402 KB/s) - ‘./Amiri-1.000.zip’ saved [1039502/1039502]
+
+--2023-11-17 12:39:27--  https://dev-www.libreoffice.org/src/ReemKufi-1.2.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450612 (440K) [application/zip]
+Saving to: ‘./ReemKufi-1.2.zip’
+
+     0K ......                                               100%  371K=1.2s
+
+2023-11-17 12:39:29 (371 KB/s) - ‘./ReemKufi-1.2.zip’ saved [450612/450612]
+
+--2023-11-17 12:39:29--  https://dev-www.libreoffice.org/src/Scheherazade-2.100.zip
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1114645 (1.1M) [application/zip]
+Saving to: ‘./Scheherazade-2.100.zip’
+
+     0K ........ ........ .                                  100%  433K=2.5s
+
+2023-11-17 12:39:32 (433 KB/s) - ‘./Scheherazade-2.100.zip’ saved [1114645/1114645]
+
+--2023-11-17 12:39:32--  https://dev-www.libreoffice.org/src/libmwaw-0.3.21.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1457212 (1.4M) [application/octet-stream]
+Saving to: ‘./libmwaw-0.3.21.tar.xz’
+
+     0K ........ ........ ......                             100%  286K=5.0s
+
+2023-11-17 12:39:38 (286 KB/s) - ‘./libmwaw-0.3.21.tar.xz’ saved [1457212/1457212]
+
+--2023-11-17 12:39:38--  https://dev-www.libreoffice.org/src/mythes-1.2.5.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2891852 (2.8M) [application/octet-stream]
+Saving to: ‘./mythes-1.2.5.tar.xz’
+
+     0K ........ ........ ........ ........ ........ ....    100%  263K=11s
+
+2023-11-17 12:39:50 (263 KB/s) - ‘./mythes-1.2.5.tar.xz’ saved [2891852/2891852]
+
+--2023-11-17 12:39:50--  https://dev-www.libreoffice.org/src/libodfgen-0.1.8.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 386156 (377K) [application/octet-stream]
+Saving to: ‘./libodfgen-0.1.8.tar.xz’
+
+     0K .....                                                100%  244K=1.5s
+
+2023-11-17 12:39:52 (244 KB/s) - ‘./libodfgen-0.1.8.tar.xz’ saved [386156/386156]
+
+--2023-11-17 12:39:52--  https://dev-www.libreoffice.org/src/openssl-3.0.8.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15151328 (14M) [application/octet-stream]
+Saving to: ‘./openssl-3.0.8.tar.gz’
+
+     0K ........ ........ ........ ........ ........ ........ 20%  304K 39s
+  3072K ........ ........ ........ ........ ........ ........ 41%  447K 24s
+  6144K ........ ........ ........ ........ ........ ........ 62%  304K 16s
+  9216K ........ ........ ........ ........ ........ ........ 83%  275K 8s
+ 12288K ........ ........ ........ ........ .......          100%  433K=44s
+
+2023-11-17 12:40:37 (336 KB/s) - ‘./openssl-3.0.8.tar.gz’ saved [15151328/15151328]
+
+--2023-11-17 12:40:37--  https://dev-www.libreoffice.org/src/liborcus-0.18.1.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2070352 (2.0M) [application/octet-stream]
+Saving to: ‘./liborcus-0.18.1.tar.xz’
+
+     0K ........ ........ ........ .......                   100%  386K=5.2s
+
+2023-11-17 12:40:43 (386 KB/s) - ‘./liborcus-0.18.1.tar.xz’ saved [2070352/2070352]
+
+--2023-11-17 12:40:43--  https://dev-www.libreoffice.org/src/a39f6c07ddb20d7dd2ff1f95fa21e2cd-raptor2-2.0.15.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1886657 (1.8M) [application/octet-stream]
+Saving to: ‘./a39f6c07ddb20d7dd2ff1f95fa21e2cd-raptor2-2.0.15.tar.gz’
+
+     0K ........ ........ ........ ....                      100%  315K=5.8s
+
+2023-11-17 12:40:50 (315 KB/s) - ‘./a39f6c07ddb20d7dd2ff1f95fa21e2cd-raptor2-2.0.15.tar.gz’ saved [1886657/1886657]
+
+--2023-11-17 12:40:50--  https://dev-www.libreoffice.org/src/1f5def51ca0026cd192958ef07228b52-rasqal-0.9.33.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1595647 (1.5M) [application/octet-stream]
+Saving to: ‘./1f5def51ca0026cd192958ef07228b52-rasqal-0.9.33.tar.gz’
+
+     0K ........ ........ ........                           100%  326K=4.8s
+
+2023-11-17 12:40:55 (326 KB/s) - ‘./1f5def51ca0026cd192958ef07228b52-rasqal-0.9.33.tar.gz’ saved [1595647/1595647]
+
+--2023-11-17 12:40:56--  https://dev-www.libreoffice.org/src/e5be03eda13ef68aabab6e42aa67715e-redland-1.0.17.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1621566 (1.5M) [application/octet-stream]
+Saving to: ‘./e5be03eda13ef68aabab6e42aa67715e-redland-1.0.17.tar.gz’
+
+     0K ........ ........ ........                           100%  290K=5.5s
+
+2023-11-17 12:41:02 (290 KB/s) - ‘./e5be03eda13ef68aabab6e42aa67715e-redland-1.0.17.tar.gz’ saved [1621566/1621566]
+
+--2023-11-17 12:41:02--  https://dev-www.libreoffice.org/src/librevenge-0.0.4.tar.bz2
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 529833 (517K) [application/octet-stream]
+Saving to: ‘./librevenge-0.0.4.tar.bz2’
+
+     0K ........                                             100%  289K=1.8s
+
+2023-11-17 12:41:04 (289 KB/s) - ‘./librevenge-0.0.4.tar.bz2’ saved [529833/529833]
+
+--2023-11-17 12:41:04--  https://dev-www.libreoffice.org/src/libstaroffice-0.0.7.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 707920 (691K) [application/octet-stream]
+Saving to: ‘./libstaroffice-0.0.7.tar.xz’
+
+     0K ........ ..                                          100%  293K=2.4s
+
+2023-11-17 12:41:08 (293 KB/s) - ‘./libstaroffice-0.0.7.tar.xz’ saved [707920/707920]
+
+--2023-11-17 12:41:08--  https://dev-www.libreoffice.org/src/libwpd-0.10.3.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 534712 (522K) [application/octet-stream]
+Saving to: ‘./libwpd-0.10.3.tar.xz’
+
+     0K ........                                             100%  299K=1.7s
+
+2023-11-17 12:41:10 (299 KB/s) - ‘./libwpd-0.10.3.tar.xz’ saved [534712/534712]
+
+--2023-11-17 12:41:10--  https://dev-www.libreoffice.org/src/libwpg-0.3.3.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328664 (321K) [application/octet-stream]
+Saving to: ‘./libwpg-0.3.3.tar.xz’
+
+     0K .....                                                100%  145K=2.2s
+
+2023-11-17 12:41:13 (145 KB/s) - ‘./libwpg-0.3.3.tar.xz’ saved [328664/328664]
+
+--2023-11-17 12:41:13--  https://dev-www.libreoffice.org/src/libwps-0.4.12.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 713008 (696K) [application/octet-stream]
+Saving to: ‘./libwps-0.4.12.tar.xz’
+
+     0K ........ ..                                          100%  215K=3.2s
+
+2023-11-17 12:41:17 (215 KB/s) - ‘./libwps-0.4.12.tar.xz’ saved [713008/713008]
+
+--2023-11-17 12:41:17--  https://dev-www.libreoffice.org/src/zlib-1.2.13.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1296496 (1.2M) [application/octet-stream]
+Saving to: ‘./zlib-1.2.13.tar.xz’
+
+     0K ........ ........ ...                                100%  244K=5.2s
+
+2023-11-17 12:41:23 (244 KB/s) - ‘./zlib-1.2.13.tar.xz’ saved [1296496/1296496]
+
+--2023-11-17 12:41:23--  https://dev-www.libreoffice.org/extern/f543e6e2d7275557a839a164941c0a86e5f2c3f2a0042bfc434c88c6dde9e140-opens___.ttf
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207992 (203K) [application/octet-stream]
+Saving to: ‘./f543e6e2d7275557a839a164941c0a86e5f2c3f2a0042bfc434c88c6dde9e140-opens___.ttf’
+
+     0K ...                                                  100%  226K=0.9s
+
+2023-11-17 12:41:25 (226 KB/s) - ‘./f543e6e2d7275557a839a164941c0a86e5f2c3f2a0042bfc434c88c6dde9e140-opens___.ttf’ saved [207992/207992]
+
+Fri 17 Nov 2023 12:41:25 PM PST
+--2023-11-17 12:41:25--  https://dev-www.libreoffice.org/src/curl-7.87.0.tar.xz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2547932 (2.4M) [application/octet-stream]
+Saving to: ‘./curl-7.87.0.tar.xz’
+
+     0K ........ ........ ........ ........ ......           100%  298K=8.4s
+
+2023-11-17 12:41:34 (298 KB/s) - ‘./curl-7.87.0.tar.xz’ saved [2547932/2547932]
+
+--2023-11-17 12:41:35--  https://dev-www.libreoffice.org/src/libepoxy-1.5.10.tar.gz
+Resolving dev-www.libreoffice.org (dev-www.libreoffice.org)... 2a00:1828:a012:201::1, 89.238.68.201
+Connecting to dev-www.libreoffice.org (dev-www.libreoffice.org)|2a00:1828:a012:201::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332078 (324K) [application/octet-stream]
+Saving to: ‘./libepoxy-1.5.10.tar.gz’
+
+     0K .....                                                100%  437K=0.7s
+
+2023-11-17 12:41:36 (437 KB/s) - ‘./libepoxy-1.5.10.tar.gz’ saved [332078/332078]
+
+Wed 22 Nov 2023 02:35:40 PM PST
+Wed 22 Nov 2023 02:35:41 PM PST
+Wed 22 Nov 2023 03:04:53 PM PST
+Wed 22 Nov 2023 03:04:53 PM PST
+Wed 22 Nov 2023 03:34:23 PM PST
+Wed 22 Nov 2023 03:34:24 PM PST
+Wed 22 Nov 2023 04:42:04 PM PST
+Wed 22 Nov 2023 04:42:04 PM PST
+Fri Nov 24 01:18:47 PM PST 2023
+Fri Nov 24 01:18:47 PM PST 2023
+Fri Nov 24 01:21:07 PM PST 2023
+Fri Nov 24 01:21:07 PM PST 2023
+Fri Nov 24 03:04:24 PM PST 2023
+Fri Nov 24 03:04:24 PM PST 2023
+Fri Nov 24 03:39:54 PM PST 2023
+Fri Nov 24 03:39:55 PM PST 2023
+Fri Nov 24 04:28:54 PM PST 2023
+Fri Nov 24 04:28:54 PM PST 2023
+Fri Nov 24 04:29:43 PM PST 2023
+Fri Nov 24 04:29:43 PM PST 2023
+Fri Nov 24 05:10:27 PM PST 2023
+Fri Nov 24 05:10:27 PM PST 2023
+Fri Nov 24 05:50:26 PM PST 2023
+Fri Nov 24 05:50:26 PM PST 2023
+Mon Nov 27 11:06:03 AM PST 2023
+Mon Nov 27 11:06:03 AM PST 2023
+Mon Nov 27 11:35:23 AM PST 2023
+Mon Nov 27 11:35:23 AM PST 2023
+Mon Nov 27 12:26:38 PM PST 2023
+Mon Nov 27 12:26:38 PM PST 2023
+Mon Nov 27 01:15:23 PM PST 2023
+Mon Nov 27 01:15:23 PM PST 2023
+Mon Nov 27 01:55:00 PM PST 2023
+Mon Nov 27 01:55:00 PM PST 2023
+Mon Nov 27 02:39:17 PM PST 2023
+Mon Nov 27 02:39:17 PM PST 2023
+Mon Nov 27 04:22:05 PM PST 2023
+Mon Nov 27 04:22:05 PM PST 2023
+Tue Nov 28 12:16:42 PM PST 2023
+Tue Nov 28 12:16:43 PM PST 2023
+Tue Nov 28 02:03:19 PM PST 2023
+Tue Nov 28 02:03:19 PM PST 2023
+Tue Nov 28 02:09:18 PM PST 2023
+Tue Nov 28 02:09:18 PM PST 2023
+Wed Nov 29 09:51:48 AM PST 2023
+Wed Nov 29 09:51:48 AM PST 2023
+Thu Nov 30 11:28:42 AM PST 2023
+Thu Nov 30 11:28:42 AM PST 2023
+Thu Nov 30 11:53:45 AM PST 2023
+Thu Nov 30 11:53:45 AM PST 2023
+Thu Nov 30 01:31:53 PM PST 2023
+Thu Nov 30 01:31:53 PM PST 2023
+Wed Dec  6 11:06:46 AM PST 2023
+Wed Dec  6 11:06:46 AM PST 2023
+Thu Dec  7 09:49:48 AM PST 2023
+Thu Dec  7 09:49:48 AM PST 2023
+Thu Dec  7 09:51:06 AM PST 2023
+Thu Dec  7 09:51:06 AM PST 2023
+Thu Dec 14 11:11:18 AM PST 2023
+Thu Dec 14 11:11:18 AM PST 2023
+Tue Dec 19 09:42:30 PM PST 2023
+Tue Dec 19 09:42:31 PM PST 2023
+Tue Dec 19 09:44:34 PM PST 2023
+Tue Dec 19 09:44:34 PM PST 2023

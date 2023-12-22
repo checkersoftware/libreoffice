@@ -1,0 +1,3 @@
+*************************************
+*[1;33;40m WARNING [0m: ccache's cache size is less than 1GB using it is counter-productive: auto-ccache detection disabled
+*[1;33;40m WARNING [0m: TLS/SSL implementation to use is OpenSSL but some code may still depend on NSS
